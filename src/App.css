@@ -1,3 +1,4 @@
+
 body {
   margin-right: 120px;
   margin-left: 120px;
@@ -17,12 +18,58 @@ body {
 }
 
 
+/* Hero Styles */
+.hero{
+  height: 500px;
+  width: 100%;
+  margin-bottom: 70px;
+  background-image: url('./assets/images/bg-shadow.png');
+  background-color: black;
+  border: none;
+  border-radius: 24px;
+}
+.hero p{
+  color: gray;
+}
+.hero button{
+    border: 1px solid #E7FE29;
+    background: transparent;
+
+}
+
+.hero a{
+  background-color: #E7FE29;
+
+  
+}
+
+/* Players Styles */
+.players a{
+  color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 @media screen and (max-width: 576px) {
   body{
-    margin: 0 auto;
+    margin: 0;
+  }
+  .card{
+    border-radius: 0;
   }
 
 }
