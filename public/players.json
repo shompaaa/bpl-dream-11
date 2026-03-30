@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Medium",
+    "rating": 95,
+    "price": 1500000,
+    "image": "virat_kohli.png"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "rating": 92,
+    "price": 1400000,
+    "image": "babar_azam.png"
+  },
+  {
+    "id": 3,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "rating": 90,
+    "price": 1350000,
+    "image": "joe_root.png"
+  },
+  {
+    "id": 4,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Legbreak",
+    "rating": 91,
+    "price": 1380000,
+    "image": "steve_smith.png"
+  },
+  {
+    "id": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "rating": 89,
+    "price": 1300000,
+    "image": "kane_williamson.png"
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast Medium",
+    "rating": 93,
+    "price": 1450000,
+    "image": "ben_stokes.png"
+  },
+  {
+    "id": 7,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Left-Arm Orthodox",
+    "rating": 94,
+    "price": 1420000,
+    "image": "shakib_al_hasan.png"
+  },
+  {
+    "id": 8,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast Medium",
+    "rating": 88,
+    "price": 1250000,
+    "image": "hardik_pandya.png"
+  },
+  {
+    "id": 9,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Legbreak",
+    "rating": 91,
+    "price": 1350000,
+    "image": "rashid_khan.png"
+  },
+  {
+    "id": 10,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "rating": 92,
+    "price": 1400000,
+    "image": "jasprit_bumrah.png"
+  },
+  {
+    "id": 11,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Left-Arm Fast",
+    "rating": 90,
+    "price": 1380000,
+    "image": "mitchell_starc.png"
+  },
+  {
+    "id": 12,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Left-Arm Fast Medium",
+    "rating": 89,
+    "price": 1320000,
+    "image": "trent_boult.png"
+  },
+  {
+    "id": 13,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "None",
+    "rating": 90,
+    "price": 1370000,
+    "image": "jos_buttler.png"
+  },
+  {
+    "id": 14,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "None",
+    "rating": 88,
+    "price": 1280000,
+    "image": "quinton_de_kock.png"
+  },
+  {
+    "id": 15,
+    "name": "MS Dhoni",
+    "country": "India",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Medium",
+    "rating": 87,
+    "price": 1200000,
+    "image": "ms_dhoni.png"
+  }
+]
