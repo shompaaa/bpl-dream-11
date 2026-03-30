@@ -8,7 +8,7 @@
     "bowlingStyle": "Right-Arm Medium",
     "rating": 95,
     "price": 1500000,
-    "image": "virat_kohli.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "bowlingStyle": "Right-Arm Offbreak",
     "rating": 92,
     "price": 1400000,
-    "image": "babar_azam.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "bowlingStyle": "Right-Arm Offbreak",
     "rating": 90,
     "price": 1350000,
-    "image": "joe_root.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "bowlingStyle": "Right-Arm Legbreak",
     "rating": 91,
     "price": 1380000,
-    "image": "steve_smith.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "bowlingStyle": "Right-Arm Offbreak",
     "rating": 89,
     "price": 1300000,
-    "image": "kane_williamson.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "bowlingStyle": "Right-Arm Fast Medium",
     "rating": 93,
     "price": 1450000,
-    "image": "ben_stokes.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "bowlingStyle": "Left-Arm Orthodox",
     "rating": 94,
     "price": 1420000,
-    "image": "shakib_al_hasan.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "bowlingStyle": "Right-Arm Fast Medium",
     "rating": 88,
     "price": 1250000,
-    "image": "hardik_pandya.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "bowlingStyle": "Right-Arm Legbreak",
     "rating": 91,
     "price": 1350000,
-    "image": "rashid_khan.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "bowlingStyle": "Right-Arm Fast",
     "rating": 92,
     "price": 1400000,
-    "image": "jasprit_bumrah.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "bowlingStyle": "Left-Arm Fast",
     "rating": 90,
     "price": 1380000,
-    "image": "mitchell_starc.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 12,
@@ -129,7 +129,7 @@
     "bowlingStyle": "Left-Arm Fast Medium",
     "rating": 89,
     "price": 1320000,
-    "image": "trent_boult.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 13,
@@ -140,7 +140,7 @@
     "bowlingStyle": "None",
     "rating": 90,
     "price": 1370000,
-    "image": "jos_buttler.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 14,
@@ -151,7 +151,7 @@
     "bowlingStyle": "None",
     "rating": 88,
     "price": 1280000,
-    "image": "quinton_de_kock.png"
+    "image": "../src/assets/images/player-1.png"
   },
   {
     "id": 15,
@@ -162,6 +162,6 @@
     "bowlingStyle": "Right-Arm Medium",
     "rating": 87,
     "price": 1200000,
-    "image": "ms_dhoni.png"
+    "image": "../src/assets/images/player-1.png"
   }
 ]
