@@ -5,7 +5,7 @@ import { NavLink } from "react-router";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg">
+    <nav className="navbar navbar-expand-lg container">
       <div className="container-fluid">
 
         {/* Top Row (Mobile View) */}

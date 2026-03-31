@@ -19,7 +19,7 @@
     "bowlingStyle": "Right-Arm Offbreak",
     "rating": 92,
     "price": 1400000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-2.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "bowlingStyle": "Right-Arm Offbreak",
     "rating": 90,
     "price": 1350000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-3.png"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "bowlingStyle": "Right-Arm Legbreak",
     "rating": 91,
     "price": 1380000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-4.png"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "bowlingStyle": "Right-Arm Offbreak",
     "rating": 89,
     "price": 1300000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-5.png"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "bowlingStyle": "Right-Arm Fast Medium",
     "rating": 93,
     "price": 1450000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-6.png"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "bowlingStyle": "Left-Arm Orthodox",
     "rating": 94,
     "price": 1420000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-7.png"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "bowlingStyle": "Right-Arm Fast Medium",
     "rating": 88,
     "price": 1250000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-8.png"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "bowlingStyle": "Right-Arm Legbreak",
     "rating": 91,
     "price": 1350000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-9.png"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "bowlingStyle": "Right-Arm Fast",
     "rating": 92,
     "price": 1400000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-10.png"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "bowlingStyle": "Left-Arm Fast",
     "rating": 90,
     "price": 1380000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-11.png"
   },
   {
     "id": 12,
@@ -129,7 +129,7 @@
     "bowlingStyle": "Left-Arm Fast Medium",
     "rating": 89,
     "price": 1320000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-12.png"
   },
   {
     "id": 13,
@@ -140,7 +140,7 @@
     "bowlingStyle": "None",
     "rating": 90,
     "price": 1370000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-13.png"
   },
   {
     "id": 14,
@@ -151,7 +151,7 @@
     "bowlingStyle": "None",
     "rating": 88,
     "price": 1280000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-14.png"
   },
   {
     "id": 15,
@@ -162,6 +162,6 @@
     "bowlingStyle": "Right-Arm Medium",
     "rating": 87,
     "price": 1200000,
-    "image": "../src/assets/images/player-1.png"
+    "image": "../src/assets/images/player-15.png"
   }
 ]
